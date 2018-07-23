@@ -1,0 +1,6 @@
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\ReplaceWords\bin\Debug\ReplaceWords.exe.config
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\ReplaceWords\bin\Debug\ReplaceWords.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\ReplaceWords\bin\Debug\ReplaceWords.pdb
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\ReplaceWords\obj\Debug\ReplaceWords.csprojResolveAssemblyReference.cache
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\ReplaceWords\obj\Debug\ReplaceWords.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\ReplaceWords\obj\Debug\ReplaceWords.pdb

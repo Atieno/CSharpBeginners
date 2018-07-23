@@ -1,0 +1,6 @@
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\NumberGuesser\obj\Debug\NumberGuesser.csprojResolveAssemblyReference.cache
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\daniel.atieno\Documents\Visual Studio 2015\Projects\CSharpBeginners\NumberGuesser\obj\Debug\NumberGuesser.pdb
