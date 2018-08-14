@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Linq;
 
-
 //Namespace
 namespace NumberGuesser
 {
@@ -31,7 +30,6 @@ namespace NumberGuesser
                 throw new ArgumentException("Name cannot Accept intergers");
 
             Console.WriteLine("Hello {0}, let's Play a game...", inputName );
-
             while (true)
             {
 
